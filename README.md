@@ -1,6 +1,8 @@
 # Task 3
 ## Installation
 Скриншот SQL запроса
+
+
 ![photo_2025-06-02_15-50-30](https://github.com/user-attachments/assets/103e21ba-e757-4bf2-81e2-e8b084d16aff)
 
 ```bash
