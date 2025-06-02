@@ -12,8 +12,10 @@
 
 ![photo_2025-06-02_15-55-03](https://github.com/user-attachments/assets/92c3def3-a6e6-4c46-a91f-b6f44f097b62)
 
+
 ## Task 6.1
 Скриншот выполненных команд
+
 ![photo_2025-06-02_15-56-06](https://github.com/user-attachments/assets/6eea9413-c519-44bc-bb4f-e12dc044f122)
 ![photo_2025-06-02_15-56-08](https://github.com/user-attachments/assets/fee67a9c-271c-43d7-b050-6575941369b9)
 
