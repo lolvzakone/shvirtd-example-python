@@ -1,8 +1,7 @@
-# shvirtd-example-python
-
-Example Flask-application for docker compose training.
+# Task 3
 ## Installation
-First, you need to clone this repository:
+Скриншот SQL запроса
+![photo_2025-06-02_15-50-30](https://github.com/user-attachments/assets/103e21ba-e757-4bf2-81e2-e8b084d16aff)
 
 ```bash
 git clone https://github.com/netology-code/shvirtd-example-python.git
